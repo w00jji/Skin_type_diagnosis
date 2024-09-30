@@ -10,5 +10,5 @@
 
 
 
-공동 작업 : https://github.com/0jjuni/skin-cnn/tree/main/skin
+https://github.com/0jjuni/skin-cnn/tree/main/skin
  
